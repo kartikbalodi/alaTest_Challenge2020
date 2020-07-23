@@ -1,5 +1,3 @@
-Thank you so much for the programming challenge. 
-Here you can view a zip folder, CV and README file.
 Download the zip file and import the zip folder to access the program.   
 The tele folder holds the tele.java file which runs the input txt file  
 and the Company.java file is a custom class I made to store operators.  

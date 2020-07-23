@@ -1,0 +1,22 @@
+Operator Last:
+4 4
+32 2
+123 1
+
+Operator Third:
+1223 0.1
+1 0.3
+
+Operator First:
+1 0.1
+435435 1.0
+3512 23.0
+
+Operator Second:
+12 0.23
+123 0.2
+4324 0.4
+7645 4
+125 5
+12345 0.24
+
